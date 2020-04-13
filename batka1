@@ -107,3 +107,604 @@ http://cs22cs.uk:8000/twalker/oLPupuehWA/31143
 #EXTINF:-1,MK:Nasa TV
 http://cs22cs.uk:8000/twalker/oLPupuehWA/27735
 #EXTINF:-1,MK:FOLK TV
+#EXTINF:-1,RS: RTS 1
+http://world.marvelhd.eu:8000/ramazan/23122018/2961
+#EXTINF:-1,RS: RTS 2
+http://world.marvelhd.eu:8000/ramazan/23122018/2962
+#EXTINF:-1,RS: RTS 3
+http://world.marvelhd.eu:8000/ramazan/23122018/2963
+#EXTINF:-1,RS: RTS HD
+http://world.marvelhd.eu:8000/ramazan/23122018/2960
+#EXTINF:-1,RS: RTS Satelite
+http://world.marvelhd.eu:8000/ramazan/23122018/2964
+#EXTINF:-1,RS: Pink 1
+http://world.marvelhd.eu:8000/ramazan/23122018/2970
+#EXTINF:-1,RS: Happy TV
+http://world.marvelhd.eu:8000/ramazan/23122018/2952
+#EXTINF:-1,RS: HAPPY REALITY
+http://world.marvelhd.eu:8000/ramazan/23122018/176065
+#EXTINF:-1,RS: Prva 1
+http://world.marvelhd.eu:8000/ramazan/23122018/2957
+#EXTINF:-1,RS: Prva Plus
+http://world.marvelhd.eu:8000/ramazan/23122018/2958
+#EXTINF:-1,RS: PRVA WORLD
+http://world.marvelhd.eu:8000/ramazan/23122018/175705
+#EXTINF:-1,RS: Prva Max
+http://world.marvelhd.eu:8000/ramazan/23122018/176067
+#EXTINF:-1,RS: RTRS
+http://world.marvelhd.eu:8000/ramazan/23122018/2959
+#EXTINF:-1,RS: B92
+http://world.marvelhd.eu:8000/ramazan/23122018/2944
+#EXTINF:-1,RS: DM SAT
+http://world.marvelhd.eu:8000/ramazan/23122018/2947
+#EXTINF:-1,RS: Duga TV
+http://world.marvelhd.eu:8000/ramazan/23122018/2948
+#EXTINF:-1,RS: BK TV
+http://world.marvelhd.eu:8000/ramazan/23122018/176563
+#EXTINF:-1,RS: Studio B
+http://world.marvelhd.eu:8000/ramazan/23122018/176564
+#EXTINF:-1,RS: Balkanika
+http://world.marvelhd.eu:8000/ramazan/23122018/2946
+#EXTINF:-1,RS: Grand Narodna Tv
+http://world.marvelhd.eu:8000/ramazan/23122018/35761
+#EXTINF:-1,RS: Grand TV
+http://world.marvelhd.eu:8000/ramazan/23122018/2951
+#EXTINF:-1,RS: Grand 2
+http://world.marvelhd.eu:8000/ramazan/23122018/176066
+#EXTINF:-1,RS: N1 Info
+http://world.marvelhd.eu:8000/ramazan/23122018/176077
+#EXTINF:-1,RS: CRNA GORA 1
+http://world.marvelhd.eu:8000/ramazan/23122018/175702
+#EXTINF:-1,RS: CRNA GORA 2
+http://world.marvelhd.eu:8000/ramazan/23122018/175704
+#EXTINF:-1,RS: 24 Vijesti
+http://world.marvelhd.eu:8000/ramazan/23122018/175709
+#EXTINF:-1,RS: A TV
+http://world.marvelhd.eu:8000/ramazan/23122018/2943
+#EXTINF:-1,RS: Kopernikus 1
+http://world.marvelhd.eu:8000/ramazan/23122018/2966
+#EXTINF:-1,RS: KCN 2
+http://world.marvelhd.eu:8000/ramazan/23122018/176561
+#EXTINF:-1,RS: KCN 3
+http://world.marvelhd.eu:8000/ramazan/23122018/176076
+#EXTINF:-1,RS: Tv1000
+http://world.marvelhd.eu:8000/ramazan/23122018/176068
+#EXTINF:-1,RS: History Channel
+http://world.marvelhd.eu:8000/ramazan/23122018/176560
+#EXTINF:-1,RS: Cinemax 1
+http://world.marvelhd.eu:8000/ramazan/23122018/2995
+#EXTINF:-1,RS: Cinemax 2
+http://world.marvelhd.eu:8000/ramazan/23122018/2996
+#EXTINF:-1,RS: Cinestar TV Action
+http://world.marvelhd.eu:8000/ramazan/23122018/2999
+#EXTINF:-1,RS: Cinestar TV Premiere 1
+http://world.marvelhd.eu:8000/ramazan/23122018/2997
+#EXTINF:-1,Sport Klub 1 HD HR
+http://cloudcdn.tk:80/live/KadirUyar/9FkuDr52/17252.ts
+#EXTINF:-1,Sport Klub 2 FHD HR
+http://cloudcdn.tk:80/live/KadirUyar/9FkuDr52/17254.ts
+Arena Sport 1
+http://208.75.225.26/hls/arena1a.m3u8
+
+Arena Sport 2
+http://208.75.225.26/hls/arena2a.m3u8
+
+Arena Sport 3
+http://208.75.225.26/hls/arena3a.m3u8
+
+ 
+Arena Sport 4
+http://208.75.225.26/hls/arena4a.m3u8
+
+Arena Sport 5
+http://208.75.225.26/hls/arena5a.m3u8
+
+SPORT KLUB
+http://208.75.225.26/hls/spok1.m3u8
+
+SPORT KLUB 2
+http://208.75.225.26/hls/spok2.m3u8
+
+SPORT KLUB 3
+http://208.75.225.26/hls/spok3.m3u8
+
+Sport Klub 1
+    http://46.234.100.41:8080/sk1/index.m3u8
+    #EXTINF:-1,
+    Sport Klub 2
+    http://46.234.100.41:8080/sk2/index.m3u8
+    #EXTINF:-1,
+    Sport Klub 3
+    http://46.234.100.41:8080/sk3/index.m3u8
+    #EXTINF:-1,
+    Sport Klub 4
+    http://46.234.100.41:8080/sk4/index.m3u8
+    #EXTINF:-1,
+    Sport Klub 5
+    http://46.234.100.41:8080/sk5/index.m3u8
+    #EXTINF:-1,
+    Sport Klub 6
+    http://46.234.100.41:8080/sk6/index.m3u8
+    #EXTINF:-1,
+    Arena Sport 1
+    http://46.234.100.41:8080/arena1/index.m3u8
+    #EXTINF:-1,
+    Arena Sport 2
+    http://46.234.100.41:8080/arena2/index.m3u8
+    #EXTINF:-1,
+    Arena Sport 3
+    http://46.234.100.41:8080/arena3/index.m3u8
+    #EXTINF:-1,
+    Arena Sport 4
+    http://46.234.100.41:8080/arena4/index.m3u8
+
+EXTINF:0,ARENA SPORT 1
+http://centurionlukavac.com:80/live?channelId=65&uid=2&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
+#EXTINF:0,ARENA SPORT 2
+http://centurionlukavac.com:80/live?channelId=66&uid=2&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
+#EXTINF:0,ARENA SPORT 3
+http://centurionlukavac.com:80/live?channelId=67&uid=2&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
+#EXTINF:0,ARENA SPORT 4
+http://centurionlukavac.com:80/live?channelId=68&uid=2&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
+#EXTINF:0,SPORT KLUB 1
+http://centurionlukavac.com:80/live?channelId=71&uid=2&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
+#EXTINF:0,SPORT KLUB 1 SR
+http://centurionlukavac.com:80/live?channelId=74&uid=2&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
+#EXTINF:0,SPORT KLUB 2
+http://centurionlukavac.com:80/live?channelId=72&uid=2&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
+#EXTINF:0,SPORT KLUB 2 SR
+http://centurionlukavac.com:80/live?channelId=75&uid=2&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
+#EXTINF:0,SPORT KLUB 3
+http://centurionlukavac.com:80/live?channelId=73&uid=2&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
+#EXTINF:0,SPORT KLUB 3 SR
+http://centurionlukavac.com:80/live?channelId=76&uid=2&deviceUser=dm8981ABcDe123&devicePass=dm8981ABcDe123
+#EXTINF:-1,Arenasport 1
+http://sipragezabava.com/live/arena1
+#EXTINF:-1,Arenasport 2
+http://sipragezabava.com/live/arena2
+#EXTINF:-1,Arenasport 3
+http://sipragezabava.com/live/arena3
+#EXTINF:-1,Arenasport 4
+http://sipragezabava.com/live/arena4
+#EXTINF:-1,Arenasport 5
+http://sipragezabava.com/live/arena5
+#EXTINF:0,Sport Tv 1 slovenjia
+http://maxtv.ml.twilightparadox.com/sporttv1/sporttv1.isml/sporttv1-video%3D4500000-audio101%3D128000.m3u8
+#EXTINF:0,Sport Tv 2 slovenjia
+http://maxtv.ml.twilightparadox.com/sporttv2/sporttv2.isml/sporttv2-video%3D4500000-audio101%3D128000.m3u8
+#EXTINF:0,Sport Tv 3 slovenjia
+http://maxtv.ml.twilightparadox.com/sporttv3/sporttv3.isml/sporttv3-video%3D4500000-audio101%3D128000.m3u8
+Arena Sport 1
+http://208.75.225.26/hls/arena1a.m3u8
+Arena Sport 2
+http://208.75.225.26/hls/arena2a.m3u8
+Arena Sport 3
+http://208.75.225.26/hls/arena3a.m3u8
+Arena Sport 4
+http://208.75.225.26/hls/arena4a.m3u8
+Arena Sport 5
+http://208.75.225.26/hls/arena5a.m3u8
+SPORT KLUB
+http://208.75.225.26/hls/spok1.m3u8
+SPORT KLUB 2
+http://208.75.225.26/hls/spok2.m3u8
+SPORT KLUB 3
+http://208.75.225.26/hls/spok3.m3u8
+ #EXTINF:-1,US: ESPN 1
+http://ksportiptv.com:1557/live/meti/meti/2618.ts
+#EXTINF:-1,UK: Liverpool FC
+http://ksportiptv.com:1557/live/meti/meti/2614.ts
+#EXTINF:-1,DE: Eurosport 1
+http://ksportiptv.com:1557/live/meti/meti/1498.ts
+#EXTINF:-1,DE: Sky Germany Sport News HD
+http://ksportiptv.com:1557/live/meti/meti/1091.ts
+#EXTINF:-1,DE: SKY Sport News HD
+http://ksportiptv.com:1557/live/meti/meti/1493.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://ksportiptv.com:1557/live/meti/meti/1496.ts
+#EXTINF:-1,DE: Sport 1+ HD
+http://ksportiptv.com:1557/live/meti/meti/1582.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://ksportiptv.com:1557/live/meti/meti/1106.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/meti/meti/1495.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://ksportiptv.com:1557/live/meti/meti/2734.ts
+#EXTINF:-1,DE: Sky  Sport 4 HD
+http://ksportiptv.com:1557/live/meti/meti/2735.ts
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://ksportiptv.com:1557/live/meti/meti/2736.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://ksportiptv.com:1557/live/meti/meti/1499.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://ksportiptv.com:1557/live/meti/meti/1077.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+http://ksportiptv.com:1557/live/meti/meti/1078.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
+http://ksportiptv.com:1557/live/meti/meti/1079.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 HD
+http://ksportiptv.com:1557/live/meti/meti/1080.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 HD
+http://ksportiptv.com:1557/live/meti/meti/2742.ts
+#EXTINF:-1,PT: Sport TV1 HD
+http://ksportiptv.com:1557/live/meti/meti/1655.ts
+#EXTINF:-1,PT: Sport TV2 HD
+http://ksportiptv.com:1557/live/meti/meti/1656.ts
+#EXTINF:-1,PT: Sport TV3
+http://ksportiptv.com:1557/live/meti/meti/1657.ts
+#EXTINF:-1,PT: Sport TV 1
+http://ksportiptv.com:1557/live/meti/meti/2184.ts
+#EXTINF:-1,PT: Sport TV 2
+http://ksportiptv.com:1557/live/meti/meti/2185.ts
+#EXTINF:-1,PT: Sport TV 3
+http://ksportiptv.com:1557/live/meti/meti/2186.ts
+#EXTINF:-1,PT: Sport TV 4
+http://ksportiptv.com:1557/live/meti/meti/1695.ts
+#EXTINF:-1,PT: Sport TV 5
+http://ksportiptv.com:1557/live/meti/meti/1696.ts
+#EXTINF:-1,PT: Sporting TV
+http://ksportiptv.com:1557/live/meti/meti/2189.ts
+#EXTINF:-1,ES: Canal+ Liga
+http://ksportiptv.com:1557/live/meti/meti/1587.ts
+#EXTINF:-1,ES: Canal+ Liga 2
+http://ksportiptv.com:1557/live/meti/meti/1588.ts
+#EXTINF:-1,ES: Canal+ Futbol
+http://ksportiptv.com:1557/live/meti/meti/1586.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://ksportiptv.com:1557/live/meti/meti/2148.ts
+#EXTINF:-1,IT: Rai 5
+http://ksportiptv.com:1557/live/meti/meti/2013.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://ksportiptv.com:1557/live/meti/meti/1038.ts
+#EXTINF:-1,IT: Rai Sport 2 HD
+http://ksportiptv.com:1557/live/meti/meti/1039.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://ksportiptv.com:1557/live/meti/meti/1693.ts
+#EXTINF:-1,IT: Premium Calcio 4 HD
+http://ksportiptv.com:1557/live/meti/meti/2137.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://ksportiptv.com:1557/live/meti/meti/2014.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://ksportiptv.com:1557/live/meti/meti/1107.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/meti/meti/1111.ts
+#EXTINF:-1,IT: Premium Calcio 2 HD
+http://ksportiptv.com:1557/live/meti/meti/2135.ts
+#EXTINF:-1,IT: Premium Calcio 3 HD
+http://ksportiptv.com:1557/live/meti/meti/2136.ts
+#EXTINF:-1,IT: Premium Calcio 5 HD
+http://ksportiptv.com:1557/live/meti/meti/2138.ts
+#EXTINF:-1,IT: Premium Calcio 6 HD
+http://ksportiptv.com:1557/live/meti/meti/2139.ts
+#EXTINF:-1,USA: Tsn-Sport 1 HD
+http://ksportiptv.com:1557/live/meti/meti/2432.ts
+#EXTINF:-1,USA: Tsn-Sport 2 HD
+http://ksportiptv.com:1557/live/meti/meti/2431.ts
+#EXTINF:-1,USA: Tsn-Sport 3 HD
+http://ksportiptv.com:1557/live/meti/meti/2430.ts
+#EXTINF:-1,USA: Tsn-Sport 4 HD
+http://ksportiptv.com:1557/live/meti/meti/2429.ts
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://ksportiptv.com:1557/live/meti/meti/2428.ts
+#EXTINF:-1,USA: AFN Sports HD
+http://ksportiptv.com:1557/live/meti/meti/2412.ts
+#EXTINF:-1,USA: AFN Sports
+http://ksportiptv.com:1557/live/meti/meti/2414.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://ksportiptv.com:1557/live/meti/meti/2413.ts
+#EXTINF:-1,USA: FOX Sport 1
+http://ksportiptv.com:1557/live/meti/meti/2402.ts
+#EXTINF:-1,SE: TV3 Sport 1 DK
+http://ksportiptv.com:1557/live/meti/meti/2281.ts
+#EXTINF:-1,SE: TV3 Sport 2 DK
+http://ksportiptv.com:1557/live/meti/meti/2280.ts
+#EXTINF:-1,FR: Canal+ Sport
+http://ksportiptv.com:1557/live/meti/meti/1280.ts
+#EXTINF:-1,FR: beiN Sport 1 HD
+http://ksportiptv.com:1557/live/meti/meti/1476.ts
+#EXTINF:-1,FR: beiN Sport 2 HD
+http://ksportiptv.com:1557/live/meti/meti/1477.ts
+#EXTINF:-1,FR: beiN Sport 3 HD
+http://ksportiptv.com:1557/live/meti/meti/1208.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://ksportiptv.com:1557/live/meti/meti/2294.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://ksportiptv.com:1557/live/meti/meti/2293.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://ksportiptv.com:1557/live/meti/meti/1973.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://ksportiptv.com:1557/live/meti/meti/1972.ts
+#EXTINF:-1,TR: Lig TV 3
+http://ksportiptv.com:1557/live/meti/meti/1360.ts
+#EXTINF:-1,TR: Lig TV
+http://ksportiptv.com:1557/live/meti/meti/1664.ts
+#EXTINF:-1,TR: A Spor HD
+http://ksportiptv.com:1557/live/meti/meti/1661.ts
+#EXTINF:-1,TR: Lig TV 2 HD
+http://ksportiptv.com:1557/live/meti/meti/982.ts
+#EXTINF:-1,TR: Lig TV 1 HD
+http://ksportiptv.com:1557/live/meti/meti/981.ts
+#EXTINF:-1,TR: TIVIBU SPORT 2
+http://ksportiptv.com:1557/live/meti/meti/1933.ts
+#EXTINF:-1,UK:BT Sports 1
+http://ksportiptv.com:1557/live/meti/meti/1837.ts
+#EXTINF:-1,UK:BT Sports 2
+http://ksportiptv.com:1557/live/meti/meti/1836.ts
+#EXTINF:-1,UK: BT SPORT 1
+http://ksportiptv.com:1557/live/meti/meti/892.ts
+#EXTINF:-1,UK: BT Sport 2
+http://ksportiptv.com:1557/live/meti/meti/1386.ts
+#EXTINF:-1,UK:Manchester United TV
+http://ksportiptv.com:1557/live/meti/meti/1830.ts
+#EXTINF:-1,UK: Sky Sport 1
+http://ksportiptv.com:1557/live/meti/meti/1109.ts
+#EXTINF:-1,UK: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/meti/meti/1112.ts
+#EXTINF:-1,UK: SKY Sport 2
+http://ksportiptv.com:1557/live/meti/meti/1113.ts
+#EXTINF:-1,UK: Sky Sport 3 HD
+http://ksportiptv.com:1557/live/meti/meti/1115.ts
+#EXTINF:-1,UK: Sky Sport 3
+http://ksportiptv.com:1557/live/meti/meti/1116.ts
+#EXTINF:-1,UK: Sky Sport 4
+http://ksportiptv.com:1557/live/meti/meti/1388.ts
+#EXTINF:-1,UK: Sky Sport 5 HD
+http://ksportiptv.com:1557/live/meti/meti/1119.ts
+#EXTINF:-1,UK:Sky Sports F1
+http://ksportiptv.com:1557/live/meti/meti/1796.ts
+#EXTINF:-1,UK:Sky Sports 1
+http://ksportiptv.com:1557/live/meti/meti/1799.ts
+#EXTINF:-1,UK:Sky Sports 2
+http://ksportiptv.com:1557/live/meti/meti/1798.ts
+#EXTINF:-1,UK:Sky Sports 3
+http://ksportiptv.com:1557/live/meti/meti/1797.ts
+#EXTINF:-1,UK:Sky Sports 4
+http://ksportiptv.com:1557/live/meti/meti/1828.ts
+#EXTINF:-1,UK:Sky Sports 5
+http://ksportiptv.com:1557/live/meti/meti/1827.ts
+#EXTINF:-1,AR: beINSports 1 HD
+http://ksportiptv.com:1557/live/meti/meti/882.ts
+#EXTINF:-1,AR: beINSports 2 HD
+http://ksportiptv.com:1557/live/meti/meti/883.ts
+#EXTINF:-1,AR: beINSports 3 HD
+http://ksportiptv.com:1557/live/meti/meti/884.ts
+#EXTINF:-1,AR: beINSports 4 HD
+http://ksportiptv.com:1557/live/meti/meti/885.ts
+#EXTINF:-1,AR: beINSports 5 HD
+http://ksportiptv.com:1557/live/meti/meti/886.ts
+#EXTINF:-1,AR: beINSports 6 HD
+http://ksportiptv.com:1557/live/meti/meti/887.ts
+#EXTINF:-1,AR: beINSports 7 HD
+http://ksportiptv.com:1557/live/meti/meti/888.ts
+#EXTINF:-1,AR: beINSports 8 HD
+http://ksportiptv.com:1557/live/meti/meti/889.ts
+#EXTINF:-1,AR: beINSports 9 HD
+http://ksportiptv.com:1557/live/meti/meti/1729.ts
+#EXTINF:-1,AR: beINSports 10 HD
+http://ksportiptv.com:1557/live/meti/meti/1730.ts
+#EXTINF:-1,AR: beINSports 11 HD
+http://ksportiptv.com:1557/live/meti/meti/1769.ts
+#EXTINF:-1,EX-YU: Sport Klub 1 HR
+http://ksportiptv.com:1557/live/meti/meti/1132.ts
+#EXTINF:-1,EX-YU: Sport Klub 2 HR
+http://ksportiptv.com:1557/live/meti/meti/1133.ts
+#EXTINF:-1,EX-YU: Sport Klub 3 HR
+http://ksportiptv.com:1557/live/meti/meti/1134.ts
+#EXTINF:-1,Ex-Yu:Sport Klub 6
+http://ksportiptv.com:1557/live/meti/meti/2677.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HR
+http://ksportiptv.com:1557/live/meti/meti/863.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 HR
+http://ksportiptv.com:1557/live/meti/meti/865.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 HR
+http://ksportiptv.com:1557/live/meti/meti/869.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 HR
+http://ksportiptv.com:1557/live/meti/meti/867.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+http://ksportiptv.com:1557/live/meti/meti/871.ts
+#EXTINF:-1,EX:YU: ARENA SPORT 6 HR
+http://ksportiptv.com:1557/live/meti/meti/2941.ts
+#EXTINF:-1,EX-YU : SPORT KLUB 1 HD
+http://ksportiptv.com:1557/live/meti/meti/1718.ts
+#EXTINF:-1,EX-YU : SPORT KLUB 2 HD
+http://ksportiptv.com:1557/live/meti/meti/1719.ts
+#EXTINF:-1,EX-YU : SPORT KLUB 3 HD
+http://ksportiptv.com:1557/live/meti/meti/1720.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 SRB
+http://ksportiptv.com:1557/live/meti/meti/864.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 SRB
+http://ksportiptv.com:1557/live/meti/meti/866.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 SRB
+http://ksportiptv.com:1557/live/meti/meti/868.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 SRB
+http://ksportiptv.com:1557/live/meti/meti/870.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 SRB
+http://ksportiptv.com:1557/live/meti/meti/1458.ts
+#EXTINF:-1,EX-YU: SPORTKLUB 1 HD SLO
+http://ksportiptv.com:1557/live/meti/meti/2942.ts
+#EXTINF:-1,EX-YU: SPORTKLUB 2 HD SLO
+http://ksportiptv.com:1557/live/meti/meti/2943.ts
+#EXTINF:-1,EX-YU: SPORTKLUB 3 HD SLO
+http://ksportiptv.com:1557/live/meti/meti/2944.ts
+#EXTINF:-1,EX-YU: SPORT TV 1 HD SLO
+http://ksportiptv.com:1557/live/meti/meti/2945.ts
+#EXTINF:-1,EX-YU: SPORT TV 2 HD SLO
+http://ksportiptv.com:1557/live/meti/meti/2946.ts
+#EXTINF:-1,EX-YU: SPORT TV 3 HD SLO
+http://ksportiptv.com:1557/live/meti/meti/2947.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 5
+http://ksportiptv.com:1557/live/meti/meti/2934.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 6
+http://ksportiptv.com:1557/live/meti/meti/2935.ts
+#EXTINF:-1,EX-YU : Sportal TV HD
+http://ksportiptv.com:1557/live/meti/meti/1864.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 5 SRB (reserve)
+http://ksportiptv.com:1557/live/meti/meti/2940.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 4 SRB (reserve)
+http://ksportiptv.com:1557/live/meti/meti/2939.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 3 SRB (reserve)
+http://ksportiptv.com:1557/live/meti/meti/2938.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 2 SRB (local)
+http://ksportiptv.com:1557/live/meti/meti/2937.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 1 SRB (local)
+http://ksportiptv.com:1557/live/meti/meti/2936.ts
+#EXTINF:-1,EX YU: SPORT KLUB 4
+http://ksportiptv.com:1557/live/meti/meti/2933.ts
+#EXTINF:-1,EX YU: SPORT KLUB 3
+http://ksportiptv.com:1557/live/meti/meti/2932.ts
+#EXTINF:-1,EX YU: SPORT KLUB 2
+http://ksportiptv.com:1557/live/meti/meti/2931.ts
+#EXTINF:-1,EX YU: SPORT KLUB 1
+http://ksportiptv.com:1557/live/meti/meti/2930.ts
+#EXTINF:-1,^^^^Switzerland Channel^^^^
+http://ksportiptv.com:1557/live/meti/meti/3020.ts
+#EXTINF:-1,CH: Teleclub Star
+http://ksportiptv.com:1557/live/meti/meti/2205.ts
+#EXTINF:-1,CH: Teleclub Sport 3
+http://ksportiptv.com:1557/live/meti/meti/2210.ts
+#EXTINF:-1,CH: Teleclub Sport 2
+http://ksportiptv.com:1557/live/meti/meti/2209.ts
+#EXTINF:-1,CH: Teleclub Prime
+http://ksportiptv.com:1557/live/meti/meti/2206.ts
+#EXTINF:-1,CH: Teleclub Cinema
+http://ksportiptv.com:1557/live/meti/meti/2207.ts
+#EXTINF:-1,CH: RSI LA2 HD
+http://ksportiptv.com:1557/live/meti/meti/1919.ts
+#EXTINF:-1,CH:  Teleclub Sport 1
+http://ksportiptv.com:1557/live/meti/meti/2208.ts
+#EXTINF:-1,CH: TVO
+http://ksportiptv.com:1557/live/meti/meti/2955.ts
+#EXTINF:-1,CH: TELEBIELINGUE
+http://ksportiptv.com:1557/live/meti/meti/2957.ts
+#EXTINF:-1,CH: TELEBAERN
+http://ksportiptv.com:1557/live/meti/meti/2958.ts
+#EXTINF:-1,CH: TELE ZURICH
+http://ksportiptv.com:1557/live/meti/meti/2954.ts
+#EXTINF:-1,CH: KANAL 9
+http://ksportiptv.com:1557/live/meti/meti/2956.ts
+#EXTINF:-1,*<>*  Pako Sport Europe  *<>*
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/485.ts
+#EXTINF:-1,BOX Nation
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/1437.ts
+#EXTINF:-1,BT SPORT 1 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/177.ts
+#EXTINF:-1,BT SPORT 2 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/178.ts
+#EXTINF:-1,UK:Sky Sport News
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4213.ts
+#EXTINF:-1,UK:Sky Sport 1
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4215.ts
+#EXTINF:-1,UK:Sky Sport 2
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4216.ts
+#EXTINF:-1,UK:Sky Sport 3
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4217.ts
+#EXTINF:-1,UK:Sky Sport 4
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4218.ts
+#EXTINF:-1,UK:Sky Sport 5
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4219.ts
+#EXTINF:-1,UK:Man UTD TV
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4175.ts
+#EXTINF:-1,UK:Liverpool
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4211.ts
+#EXTINF:-1,EX-YU:SPORT KLUB1 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4777.ts
+#EXTINF:-1,EX-YU:SPORT KLUB2 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4778.ts
+#EXTINF:-1,EX-YU:SPORT KLUB3 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4779.ts
+#EXTINF:-1,EX-YU:ARENA SPORT 1 (cr)
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4780.ts
+#EXTINF:-1,EX-YU:ARENA SPORT 2 (cr)
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4781.ts
+#EXTINF:-1,EX-YU:ARENA SPORT 3 (cr)
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4782.ts
+#EXTINF:-1,EX-YU:ARENA SPORT 4 (cr)
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4783.ts
+#EXTINF:-1,EX-YU:ARENA SPORT 5 (cro)
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4794.ts
+#EXTINF:-1,EX-YU:ARENA SPORT 1 (srb)
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4789.ts
+#EXTINF:-1,EX-YU:ARENA SPORT 2 (srb)
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4790.ts
+#EXTINF:-1,EX-YU:ARENA SPORT 3 (srb)
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4791.ts
+#EXTINF:-1,EX-YU:ARENA SPORT 5 (srb)
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4793.ts
+#EXTINF:-1,EX-YU:ARENA SPORT 4 (srb)
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4792.ts
+#EXTINF:-1,**** BEIN SPORTS France ****
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4454.ts
+#EXTINF:-1,FR:BEINSPORT 1 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4458.ts
+#EXTINF:-1,FR:BEINSPORT 2 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4459.ts
+#EXTINF:-1,FR:BEINSPORT 3 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4460.ts
+#EXTINF:-1,De: SKY Bundesliga 1HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/473.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 1 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/5299.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 2 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/5300.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 3 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/5301.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 4 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/5302.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 5 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/5303.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 6 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/5304.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 7 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/5305.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 8 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/5306.ts
+#EXTINF:-1,DE:SKY Germany Bundesliga 9 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/5307.ts
+#EXTINF:-1,FR:EUROSPORT 2 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4457.ts
+#EXTINF:-1,FR:EUROSPORT 1 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4456.ts
+#EXTINF:-1,TR:SPORTSTV
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4600.ts
+#EXTINF:-1,TR:SPORTS_TV
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4599.ts
+#EXTINF:-1,TR:LIGTV_3_HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4558.ts
+#EXTINF:-1,TR:LIGTV_2_HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4557.ts
+#EXTINF:-1,TR:LIGTV_1_HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4556.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4531.ts
+#EXTINF:-1,ITA: Sky Super Tennis HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/1613.ts
+#EXTINF:-1,IT: Sky Super calcio HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/1609.ts
+#EXTINF:-1,IT: Sky Sport MotoGP HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4532.ts
+#EXTINF:-1,IT: Sky Sport Moto GP
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/1351.ts
+#EXTINF:-1,IT: Sky Sport F1 HD.
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/1610.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4533.ts
+#EXTINF:-1,IT: Sky Sport 1HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/1601.ts
+#EXTINF:-1,IT: Sky Sport 2 HD.
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/1607.ts
+#EXTINF:-1,IT: Sky Sport 3 HD.
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/1608.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4534.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/4535.ts
+#EXTINF:-1,ITA: Sky Moto GP HD.
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/1611.ts
+#EXTINF:-1,ITA: Rai Sport 2
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/1615.ts
+#EXTINF:-1,ITA: Rai Sport 1
+http://pro-unibox.com:8000/live/1month/W2ZeGGAUhO/1616.ts
+
+
+
+
